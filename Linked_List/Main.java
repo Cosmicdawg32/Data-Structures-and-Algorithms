@@ -1,7 +1,7 @@
 /**
  * Author: Nicholas Bleeker
- *  Project: Linked List Implementaion (Singly Linked List)
- *  Description: The main file used to test the functionalality of the LinkedList class
+ * Project: Linked List Implementaion (Singly Linked List)
+ * Description: The main file used to test the functionalality of the LinkedList class
  */
 public class Main {
     public static void main(String[] args) {
